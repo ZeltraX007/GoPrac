@@ -1,4 +1,4 @@
-package main
+package main 	//special
 import "fmt"
 import "unicode/utf8"
 
