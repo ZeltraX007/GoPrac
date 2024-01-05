@@ -1,3 +1,5 @@
+// -------------- Data types -------------
+
 package main 	//special
 import "fmt"
 import "unicode/utf8"
