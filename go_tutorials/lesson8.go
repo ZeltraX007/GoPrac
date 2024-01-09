@@ -32,3 +32,6 @@ func process(c chan int){
 	}
 	// c <- 123
 }
+
+// ---------- BUFFER CHANNEL ------------
+// can store multiple values
